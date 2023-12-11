@@ -10,4 +10,4 @@ function countGender(gender){
     };
 }
 
-console.log(countGender('M'));
+console.log(countGender('F'));
